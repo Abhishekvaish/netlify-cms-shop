@@ -1,0 +1,21 @@
+*,
+*::before,
+*::after {
+	margin: 0;
+	box-sizing: border-box;
+	font-family: -apple-system, Roboto, sans-serif, serif;
+}
+header {
+	height: 30vh;
+	background-color: aliceblue;
+}
+
+main {
+	min-height: 60vh;
+	padding: 10px;
+}
+footer {
+	height: 10vh;
+	background-color: gray;
+	padding: 1% 10%;
+}
